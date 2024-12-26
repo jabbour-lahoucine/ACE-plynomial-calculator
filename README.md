@@ -134,3 +134,6 @@ Le système est conteneurisé avec Docker, ce qui permet un déploiement simplif
 ## 9. Conclusion
 
 Ce projet offre une solution pratique et accessible pour résoudre des équations polynomiales de manière automatique, tout en fournissant des outils visuels et un historique des calculs. En combinant des méthodes numériques et symboliques, il permet aux utilisateurs de résoudre des problèmes complexes sans nécessiter une expertise en mathématiques.
+
+![architecture](https://github.com/user-attachments/assets/9a73be6d-6df7-4705-9528-8dd9bb0faa0b)
+
